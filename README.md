@@ -1,4 +1,4 @@
 # website
 Simple website personal built with HTML and CSS
 
-You can try the website here -> website-riccardogarutti.netlify.app
+You can see the project [here](website-riccardogarutti.netlify.app).

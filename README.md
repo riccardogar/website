@@ -23,7 +23,7 @@ If you'd like to run the project locally on your computer, follow these steps:
 2. Clone this repository to your computer using the following command:
 
    ```bash
-   git clone [https://github.com/riccardogar/website.git]
+   git clone https://github.com/riccardogar/website.git
 
 ## Contact me
 

@@ -3,7 +3,7 @@ Welcome to my personal website project! This website has been created to share i
 
 ## How to View the Site
 
-You can view the site by visiting the following link:[here](https://website-riccardogarutti.netlify.app/)
+You can view the site by visiting the following link: [here](https://website-riccardogarutti.netlify.app/)
 
 ## Project Description
 

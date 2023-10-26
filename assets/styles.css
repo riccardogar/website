@@ -327,8 +327,8 @@ footer {
         display: block;
     }
     .intro-section {
-        margin-right: 0;
-        margin-left: 0;
+        margin-right: 30px;
+        margin-left: 30px;
     }
     .img-circle {
         height: 200px;
@@ -363,12 +363,12 @@ footer {
     }
     .skills-list li {
         width: 400px;
-        margin-right: 5%;
-        margin-left: 5%;
+        margin-right: 10%;
+        margin-left: 10%;
         margin-bottom: 20px;
     }
     form {
-        width: 60%;
+        width: 70%;
     }
     form input,
     form textarea {

@@ -4,6 +4,9 @@
   font-family: "Roboto", sans-serif;
   box-sizing: border-box;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 .header {
   display: flex;
@@ -42,6 +45,12 @@
 .navbar li a:hover {
   border-bottom: 3px solid blue;
   padding-bottom: 3px;
+}
+
+.logo a,
+.logo a:visited {
+  color: black;
+  text-decoration: none;
 }
 
 .checkbtn {
@@ -274,6 +283,10 @@ form textarea {
   outline: none;
   resize: vertical;
 }
+form input:focus,
+form textarea:focus {
+  border: 2px solid blue;
+}
 
 form button {
   margin-left: 60px;
@@ -323,6 +336,16 @@ footer {
 
 .fa-facebook {
   color: #0765e1;
+}
+
+.intro-message {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 18px;
+}
+
+.message-div {
+  margin: 40px 100px 0px 100px;
 }
 
 @media (max-width: 768px) {
@@ -377,6 +400,10 @@ footer {
   form textarea {
     margin-left: 40px;
     margin-right: 40px;
+  }
+  .intro-message {
+    text-align: center;
+    margin-top: 200px;
   }
 }
 
